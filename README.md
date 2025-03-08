@@ -1,6 +1,9 @@
-# E-commerce_Purchases_Analysis
-
 # E-Commerce Customer Purchase Analysis
+
+![Interactive Cares Course Project](https://img.shields.io/badge/Interactive-Cares20Learning%20Platform-blue)
+![Pandas Analysis](https://img.shields.io/badge/Pandas-1.5.3-blue)
+![Python](https://img.shields.io/badge/Python-3.9%2B-brightgreen)
+![Dataset](https://img.shields.io/badge/Records-30k-orange)
 
 ## 📌 Project Overview
 This project analyzes an e-commerce customer purchase dataset to extract insights on customer behavior, spending trends, and credit card usage. It involves data exploration, cleaning, and visualization using Python.
