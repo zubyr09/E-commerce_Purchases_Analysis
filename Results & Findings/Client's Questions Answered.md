@@ -18,7 +18,7 @@
 2. Francis (124 occurrences)
 3. Eula (86 occurrences)
 
-- **Visualization**: [Bar Chart of the Top 10 Most Common Names](../Visuals/Bar%20Chart%20of%20the%20Top%2010%20Most%20Common%20Names.png)
+- **Visualization**: [Bar Chart of the Top 10 Most Common Names](../Results%20&%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Most%20Common%20Names.png)
 
 ## 4. Duplicate Phone Numbers
 
@@ -29,7 +29,7 @@
 ## 5. Structural Engineers
 
 - **Total**: 87 customers
-- **Visualization**: [Pie Chart of Structural Engineers by Gender](../Visuals/Pie%20Chart%20of%20Structural%20Engineers%20by%20Gender.png)
+- **Visualization**: [Pie Chart of Structural Engineers by Gender](../Results%20&%20Findings/Visuals/Pie%20Chart%20of%20Structural%20Engineers%20by%20Gender.png)
 
 ## 6. Male Structural Engineers
 
@@ -49,8 +49,8 @@
 - **Minimum Spending**: 0 CAD
 - **Average Spending**: \~49.99 CAD
 - **Visualizations**:
-  - [Spending Distribution Histogram](../Visuals/Spending%20Distribution%20Histogram.png)
-  - [Spending vs. Age Scatter Plot](../Visuals/Spending%20vs.%20Age%20Scatter%20Plot.png)
+  - [Spending Distribution Histogram](../Results%20&%20Findings/Visuals/Spending%20Distribution%20Histogram.png)
+  - [Spending vs. Age Scatter Plot](../Results%20&%20Findings/Visuals/Spending%20vs.%20Age%20Scatter%20Plot.png)
 
 ## 9. Customers Who Spent 0 CAD
 
@@ -97,7 +97,7 @@
 4. live.com (1,660 users)
 5. hotmail.com (1,659 users)
 
-- **Visualization**: [Bar Chart of the Top 10 Email Providers](../Visuals/Bar%20Chart%20of%20the%20Top%2010%20Email%20Providers.png)
+- **Visualization**: [Bar Chart of the Top 10 Email Providers](../Results%20&%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Email%20Providers.png)
 
 ## 17. Customers Using "am.edu" Emails
 
@@ -112,11 +112,11 @@
   - Thursday (4,327 customers)
   - Friday (4,316 customers)
   - Monday (4,216 customers)
-- **Visualization**: [Bar Chart of Customer Activity by Day](../Visuals/Bar%20Chart%20of%20Customer%20Activity%20by%20Day.png)
+- **Visualization**: [Bar Chart of Customer Activity by Day](../Results%20&%20Findings/Visuals/Bar%20Chart%20of%20Customer%20Activity%20by%20Day.png)
 
 ## 19. Credit Card Type Distribution
 
-- **Visualization**: [Bar Chart of Credit Card Types Used by Customers](../Visuals/Bar%20Chart%20of%20Credit%20Card%20Types%20Used%20by%20Customers.png)
+- **Visualization**: [Bar Chart of Credit Card Types Used by Customers](../Results%20&%20Findings/Visuals/Bar%20Chart%20of%20Credit%20Card%20Types%20Used%20by%20Customers.png)
 
 ## Conclusion
 
