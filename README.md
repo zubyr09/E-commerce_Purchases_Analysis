@@ -3,79 +3,78 @@
 # E-Commerce Customer Purchase Analysis
 
 ## Project Overview
-This project explores an **E-Commerce Customer Purchase Dataset** to extract insights into customer demographics, spending patterns, and purchasing behaviors. The analysis is performed using Python, SQL, and visualization techniques.
+This project analyzes an e-commerce dataset to extract insights on customer spending behavior, demographic trends, and purchase patterns using SQL and Python.
 
 ## Repository Structure
+
 ```
-📂 E-Commerce Customer Purchase Analysis
-│-- 📄 Cust_Purch_Data_Solution.ipynb (Solution Notebook)
-│-- 📄 E-Commerce Project Visuals.ipynb (Visualization Notebook)
-│-- 📄 README.md (This file)
-│-- 📂 Dataset
-│   │-- 📄 Cust_Purch_Data_Exercise.ipynb (Exercise Notebook)
-│   │-- 📄 Cust_Purch_FakeData.csv (Dataset)
-│-- 📂 Results & Findings
-│   │-- 📄 Client's Questions Answered.md (Findings Document)
-│   │-- 📂 Visuals
-│       │-- 📄 Age Distribution Histogram.png
-│       │-- 📄 Bar Chart of Credit Card Types Used by Customers.png
-│       │-- 📄 Bar Chart of Customer Activity by Day.png
-│       │-- 📄 Bar Chart of the Top 10 Email Providers.png
-│       │-- 📄 Bar Chart of the Top 10 Most Common Names.png
-│       │-- 📄 Pie Chart of Structural Engineers by Gender.png
-│       │-- 📄 Spending Distribution Histogram.png
-│       │-- 📄 Spending vs. Age Scatter Plot.png
+├── Dataset
+│   ├── [Cust_Purch_Data_Exercise.ipynb](Dataset/Cust_Purch_Data_Exercise.ipynb)
+│   ├── [Cust_Purch_FakeData.csv](Dataset/Cust_Purch_FakeData.csv)
+│
+├── Results & Findings
+│   ├── [Client's Questions Answered.md](Results%20%26%20Findings/Client's%20Questions%20Answered.md)
+│   ├── Visuals
+│       ├── [Age Distribution Histogram.png](Results%20%26%20Findings/Visuals/Age%20Distribution%20Histogram.png)
+│       ├── [Bar Chart of Credit Card Types Used by Customers.png](Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20Credit%20Card%20Types%20Used%20by%20Customers.png)
+│       ├── [Bar Chart of Customer Activity by Day.png](Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20Customer%20Activity%20by%20Day.png)
+│       ├── [Bar Chart of the Top 10 Email Providers.png](Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Email%20Providers.png)
+│       ├── [Bar Chart of the Top 10 Most Common Names.png](Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Most%20Common%20Names.png)
+│       ├── [Pie Chart of Structural Engineers by Gender.png](Results%20%26%20Findings/Visuals/Pie%20Chart%20of%20Structural%20Engineers%20by%20Gender.png)
+│       ├── [Spending Distribution Histogram.png](Results%20%26%20Findings/Visuals/Spending%20Distribution%20Histogram.png)
+│       ├── [Spending vs. Age Scatter Plot.png](Results%20%26%20Findings/Visuals/Spending%20vs.%20Age%20Scatter%20Plot.png)
+│
+├── [Cust_Purch_Data_Solution.ipynb](Cust_Purch_Data_Solution.ipynb)
+├── [E-Commerce Project Visuals.ipynb](E-Commerce%20Project%20Visuals.ipynb)
+├── [README.md](README.md)
 ```
 
-## Files Description
+## Notebooks & Analysis
+- **[Cust_Purch_Data_Exercise.ipynb](Dataset/Cust_Purch_Data_Exercise.ipynb):** The problem statement and dataset provided.
+- **[Cust_Purch_Data_Solution.ipynb](Cust_Purch_Data_Solution.ipynb):** SQL and Python-based solution to analyze customer purchases.
+- **[E-Commerce Project Visuals.ipynb](E-Commerce%20Project%20Visuals.ipynb):** Notebook generating visual insights from the data.
 
-### 1️⃣ Dataset
-- **Cust_Purch_FakeData.csv** → The dataset used for analysis.
-- **Cust_Purch_Data_Exercise.ipynb** → Contains data preprocessing and exploratory analysis.
+## Results & Findings
+- **[Client's Questions Answered.md](Results%20%26%20Findings/Client's%20Questions%20Answered.md):** Answers to all client questions.
+- **Visuals Folder:** Contains data visualizations extracted from analysis notebooks.
 
-### 2️⃣ Analysis & Visualizations
-- **Cust_Purch_Data_Solution.ipynb** → Contains data processing, transformations, and analysis.
-- **E-Commerce Project Visuals.ipynb** → Generates visual representations of the analysis.
+## Dataset
+- **[Cust_Purch_FakeData.csv](Dataset/Cust_Purch_FakeData.csv):** The dataset used for analysis.
 
-### 3️⃣ Results & Findings
-- **Client's Questions Answered.md** → Contains detailed answers to 18 client-specific questions.
-- **Visuals/** → Folder containing graphical outputs from the analysis.
+## Key Findings
+1. The most common customer name is **Willie**.
+2. The highest spending recorded is **100 CAD**.
+3. The most used email domain is **gmail.com**.
+4. The most active shopping day is **Saturday**.
+5. **87 structural engineers** exist in the dataset, with a nearly even gender split.
+6. **1,721 customers** use a Visa credit card.
+7. The most common profession is **Preschool Teacher**.
 
-## Key Insights
-✔ Customer age distribution is mostly between **18-65 years**, with an **average of ~41.55 years**.
-✔ The most common customer name is **Willie**, followed by **Francis and Eula**.
-✔ Highest spending recorded: **100 CAD**, with an average of **49.99 CAD**.
-✔ **87 Structural Engineers** in the dataset, with a gender distribution visualized.
-✔ Most popular email providers: **Gmail, Me.com, Outlook, Live, Hotmail**.
-✔ **Saturday** is the busiest shopping day.
-✔ Credit card types, expiry years, and top professions analyzed.
+## Visualizations
+Click to view key insights:
+- ![Age Distribution Histogram](Results%20%26%20Findings/Visuals/Age%20Distribution%20Histogram.png)
+- ![Bar Chart of Credit Card Types](Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20Credit%20Card%20Types%20Used%20by%20Customers.png)
+- ![Customer Activity by Day](Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20Customer%20Activity%20by%20Day.png)
+- ![Top 10 Email Providers](Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Email%20Providers.png)
+- ![Top 10 Common Names](Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Most%20Common%20Names.png)
+- ![Structural Engineers by Gender](Results%20%26%20Findings/Visuals/Pie%20Chart%20of%20Structural%20Engineers%20by%20Gender.png)
+- ![Spending Distribution Histogram](Results%20%26%20Findings/Visuals/Spending%20Distribution%20Histogram.png)
+- ![Spending vs. Age](Results%20%26%20Findings/Visuals/Spending%20vs.%20Age%20Scatter%20Plot.png)
 
-## Visualizations 📊
-Click below to access the generated visualizations:
-- [Age Distribution Histogram](./Results%20%26%20Findings/Visuals/Age%20Distribution%20Histogram.png)
-- [Bar Chart of Credit Card Types Used by Customers](./Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20Credit%20Card%20Types%20Used%20by%20Customers.png)
-- [Customer Activity by Day](./Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20Customer%20Activity%20by%20Day.png)
-- [Top 10 Email Providers](./Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Email%20Providers.png)
-- [Top 10 Most Common Names](./Results%20%26%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Most%20Common%20Names.png)
-- [Pie Chart of Structural Engineers by Gender](./Results%20%26%20Findings/Visuals/Pie%20Chart%20of%20Structural%20Engineers%20by%20Gender.png)
-- [Spending Distribution Histogram](./Results%20%26%20Findings/Visuals/Spending%20Distribution%20Histogram.png)
-- [Spending vs. Age Scatter Plot](./Results%20%26%20Findings/Visuals/Spending%20vs.%20Age%20Scatter%20Plot.png)
+## How to Use
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your_username/your_repo.git
+   ```
+2. Open the dataset and notebooks in Jupyter.
+3. Run **Cust_Purch_Data_Solution.ipynb** for SQL-based insights.
+4. Run **E-Commerce Project Visuals.ipynb** to generate visualizations.
 
-## How to Use This Repository
-1️⃣ Clone the repository:
-```bash
-git clone https://github.com/yourusername/Ecommerce-Customer-Purchase-Analysis.git
-```
-2️⃣ Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3️⃣ Run **Cust_Purch_Data_Solution.ipynb** for analysis.
-4️⃣ Run **E-Commerce Project Visuals.ipynb** to generate visualizations.
-
-## Author
-**Afridi Jubair (Uthso)** - Data Science Enthusiast | AI Engineer Aspirant
+## Contact
+For any queries, feel free to reach out via GitHub Issues or email.
 
 ---
 
-✅ **For full findings, check [Client's Questions Answered](./Results%20%26%20Findings/Client's%20Questions%20Answered.md)**
+🚀 **Happy Analyzing!**
+
+
