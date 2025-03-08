@@ -10,7 +10,7 @@
 - **Maximum Age**: 65 years
 - **Minimum Age**: 18 years
 - **Average Age**: \~41.55 years
-- **Visualization**: [Age Distribution Histogram](../Visuals/Age%20Distribution%20Histogram.png)
+- **Visualization**: [Age Distribution Histogram](../Results%20&%20Findings/Visuals/Age%20Distribution%20Histogram.png)
 
 ## 3. Most Common Customer Names
 
