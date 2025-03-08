@@ -1,6 +1,6 @@
 # E-Commerce Customer Purchase Analysis
 
-![Interactive Cares Course Project](https://img.shields.io/badge/Interactive-Cares20Learning%20Platform-blue)
+![Interactive Cares Course Project](https://img.shields.io/badge/Interactive-Cares-blue)
 ![Pandas Analysis](https://img.shields.io/badge/Pandas-1.5.3-blue)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-brightgreen)
 ![Dataset](https://img.shields.io/badge/Records-30k-orange)
