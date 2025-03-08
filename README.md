@@ -10,7 +10,9 @@
 ## 📌 Project Overview
 This project was completed as part of the **Data Science and Machine Learning Career Path** course on [Interactive Cares](https://interactivecares.com/courseDetails/284?title=Data_Science_and_Machine_Learning_Career_Path/) - Bangladesh's premier skill development platform. It analyzes synthetic E-commerce data from [Cust_Purch_FakeData.csv](Dataset/Cust_Purch_FakeData.csv) containing **30,000 customer records** while protecting user privacy. The analysis focuses on answering key business client questions of using Python and Pandas to derive actionable insights about customer behavior, spending trends, credit card usage as well as purchasing patterns. It involves data exploration, cleaning, and visualization using Python.
 
-## 📂 Repository Structure
+## Repository Structure
+
+
 
 
 
@@ -21,10 +23,14 @@ The dataset, [Cust_Purch_FakeData.csv](Dataset/Cust_Purch_FakeData.csv), contain
 - **Behavioral Data**: Active Shopping Days, Email Providers, etc.
 
 ## 🔍 Key Insights
-- The most common customer name is **Willie** (130 occurrences).
+- The most common customer name is **Willie** (130 occurrences), followed by Francis and Eula.
 - The most used credit card type is **Visa** (1,721 customers).
 - The top spending day is **Saturday (4,376 customers).**
 - The most common email provider is **Gmail (1,687 users).**
+- Customer age distribution is mostly between **18-65 years**, with an average of **~41.55 years.**
+- **87 Structural Engineers** in the dataset, with a gender distribution visualized.
+- Highest spending recorded: **100 CAD**, with an average of **49.99 CAD.**
+- Common Professions are **Preschool Teachers (112)**, **Distribution Managers (107).**
 
 Check the detailed insights in **[Client's Questions Answered.md](Results%20&%20Findings/Client's%20Questions%20Answered.md).**
 
@@ -34,24 +40,24 @@ All visualizations are available in the **[Visuals folder](Results%20&%20Finding
 ## 🛠 Technologies Used
 - **Python** (Pandas, Matplotlib, Seaborn, NumPy)
 - **Jupyter Notebook** for analysis
-- **SQL** for data queries
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/E-Commerce-Customer-Analysis.git
-   ```
-2. Open the Jupyter Notebooks:
-   ```sh
-   jupyter notebook
-   ```
-3. Explore the dataset and findings.
 
-## 📬 Contact
-For queries, reach out via [GitHub Issues](https://github.com/yourusername/E-Commerce-Customer-Analysis/issues).
+## How to Use This Repository
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/yourusername/Ecommerce-Customer-Purchase-Analysis.git
+```
+2️⃣ Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3️⃣ Run **Cust_Purch_Data_Solution.ipynb** for analysis.
+4️⃣ Run **E-Commerce Project Visuals.ipynb** to generate visualizations.
+
+## Author
+**Afridi Jubair** - Data Science Enthusiast | AI Engineer Aspirant
 
 ---
-**© 2025 E-Commerce Customer Analysis**
 
-
+✅ **For full findings, check [Client's Questions Answered](./Results%20%26%20Findings/Client's%20Questions%20Answered.md)**
 
