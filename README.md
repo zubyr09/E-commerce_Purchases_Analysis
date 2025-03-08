@@ -2,6 +2,8 @@
 
 ![Interactive Cares Course Project](https://img.shields.io/badge/Interactive-Cares-blue)
 ![Pandas Analysis](https://img.shields.io/badge/Pandas-1.5.3-blue)
+![Matplotlib](https://img.shields.io/badge/Matplot-lib-brightgreen)
+![Seaborn](https://img.shields.io/badge/Sea-Born-blue)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-brightgreen)
 ![Dataset](https://img.shields.io/badge/Records-30k-orange)
 
