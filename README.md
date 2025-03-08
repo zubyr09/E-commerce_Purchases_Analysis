@@ -9,26 +9,30 @@ This project analyzes an e-commerce customer purchase dataset to extract insight
 
 ```
 E-Commerce-Customer-Analysis/
-│-- 📁 Dataset
+│-- Dataset/
 │   ├── [Cust_Purch_Data_Exercise.ipynb](Dataset/Cust_Purch_Data_Exercise.ipynb)
 │   ├── [Cust_Purch_FakeData.csv](Dataset/Cust_Purch_FakeData.csv)
 │
-│-- 📁 Results & Findings
+│-- Results & Findings/
 │   ├── [Client's Questions Answered.md](Results%20&%20Findings/Client's%20Questions%20Answered.md)
-│   ├── 📁 Visuals
+│   ├── Visuals/
 │       ├── ![Age Distribution Histogram](Results%20&%20Findings/Visuals/Age%20Distribution%20Histogram.png)
-│       ├── ![Bar Chart of Credit Card Types Used by Customers](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20Credit%20Card%20Types%20Used%20by%20Customers.png)
-│       ├── ![Bar Chart of Customer Activity by Day](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20Customer%20Activity%20by%20Day.png)
-│       ├── ![Bar Chart of the Top 10 Email Providers](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Email%20Providers.png)
-│       ├── ![Bar Chart of the Top 10 Most Common Names](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Most%20Common%20Names.png)
-│       ├── ![Pie Chart of Structural Engineers by Gender](Results%20&%20Findings/Visuals/Pie%20Chart%20of%20Structural%20Engineers%20by%20Gender.png)
-│       ├── ![Spending Distribution Histogram](Results%20&%20Findings/Visuals/Spending%20Distribution%20Histogram.png)
-│       ├── ![Spending vs. Age Scatter Plot](Results%20&%20Findings/Visuals/Spending%20vs.%20Age%20Scatter%20Plot.png)
+│       ├── ![Credit Card Types by Customers](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20Credit%20Card%20Types.png)
+│       ├── ![Customer Activity by Day](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20Customer%20Activity%20by%20Day.png)
+│       ├── ![Top 10 Email Providers](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Email%20Providers.png)
+│       ├── ![Most Common Names](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Most%20Common%20Names.png)
+│       ├── ![Structural Engineers by Gender](Results%20&%20Findings/Visuals/Pie%20Chart%20of%20Structural%20Engineers%20by%20Gender.png)
+│       ├── ![Spending Distribution](Results%20&%20Findings/Visuals/Spending%20Distribution%20Histogram.png)
+│       ├── ![Spending vs Age Scatter Plot](Results%20&%20Findings/Visuals/Spending%20vs%20Age%20Scatter%20Plot.png)
 │
-│-- [Cust_Purch_Data_Solution.ipynb](Cust_Purch_Data_Solution.ipynb)
-│-- [E-Commerce Project Visuals.ipynb](E-Commerce%20Project%20Visuals.ipynb)
+│-- Notebooks/
+│   ├── [Cust_Purch_Data_Solution.ipynb](Cust_Purch_Data_Solution.ipynb)
+│   ├── [E-Commerce Project Visuals.ipynb](E-Commerce%20Project%20Visuals.ipynb)
+│
 │-- [README.md](README.md)
+
 ```
+
 
 ## 📊 Dataset Overview
 The dataset, [Cust_Purch_FakeData.csv](Dataset/Cust_Purch_FakeData.csv), contains **30,000 entries** and **20 columns**, including:
