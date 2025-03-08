@@ -8,7 +8,7 @@
 ![Dataset](https://img.shields.io/badge/Records-30k-orange)
 
 ## 📌 Project Overview
-This project analyzes an e-commerce customer purchase dataset to extract insights on customer behavior, spending trends, and credit card usage. It involves data exploration, cleaning, and visualization using Python.
+This project was completed as part of the **Data Science and Machine Learning Career Path** course on [Interactive Cares]([https://ostad.app/](https://interactivecares.com/courseDetails/284?title=Data_Science_and_Machine_Learning_Career_Path/) - Bangladesh's premier skill development platform. It analyzes synthetic E-commerce data from [Cust_Purch_FakeData.csv](Dataset/Cust_Purch_FakeData.csv) containing **30,000 customer records** while protecting user privacy. The analysis focuses on answering key business client questions of using Python and Pandas to derive actionable insights about customer behavior, spending trends, credit card usage as well as purchasing patterns. It involves data exploration, cleaning, and visualization using Python.
 
 ## 📂 Repository Structure
 
