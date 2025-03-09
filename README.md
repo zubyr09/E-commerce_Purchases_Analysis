@@ -12,6 +12,31 @@ This project was completed as part of the **Data Science and Machine Learning Ca
 
 ## Repository Structure
 
+## 📂 **File Structure**  
+
+- **[Data Cleaning.sql](Data%20Cleaning.sql)**: SQL script for cleaning and preparing the data for analysis.  
+- **[Exploratory Data Analysis (EDA).sql](Exploratory%20Data%20Analysis%20(EDA).sql)**: SQL script for performing EDA on the dataset, including analyzing distributions, trends, and correlations.  
+- **[RFM Segmentation.sql](RFM%20Segmentation.sql)**: SQL script for performing RFM segmentation analysis.  
+- **[README.md](README.md)**: Project documentation.  
+
+### 📁 **[Dataset Folder](Dataset)**  
+  - **[Cust_Purch_FakeData.csv](Dataset/Cust_Purch_FakeData.csv)**: The dataset used for analysis.  
+  - **[Cust_Purch_Data_Exercise.ipynb](Dataset/Cust_Purch_Data_Exercise.ipynb)**: Jupyter Notebook for initial exploration and analysis.  
+
+### 📁 **[Results & Findings Folder](Results%20&%20Findings)**  
+  - **[Client's Questions Answered.md](Results%20&%20Findings/Client's%20Questions%20Answered.md)**: Answers to key business questions based on analysis.  
+  - **[EDA Summary.md](Results%20&%20Findings/EDA%20Summary.md)**: Summary of findings from exploratory data analysis.  
+  - **[RFM Customer Segmentation.png](Results%20&%20Findings/RFM%20Customer%20Segmentation.png)**: Graphical representation of RFM segmentation results.  
+  - **[RFM_Table.csv](Results%20&%20Findings/RFM_Table.csv)**: Final table containing customer segments based on RFM analysis.  
+
+### 📁 **[Visualizations Folder](Results%20&%20Findings/Visuals)**  
+  - **![Age Distribution Histogram](Results%20&%20Findings/Visuals/Age%20Distribution%20Histogram.png)**  
+  - **![Customer Activity by Day](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20Customer%20Activity%20by%20Day.png)**  
+  - **![Top 10 Email Providers](Results%20&%20Findings/Visuals/Bar%20Chart%20of%20the%20Top%2010%20Email%20Providers.png)**  
+  - **![Spending vs Age Scatter Plot](Results%20&%20Findings/Visuals/Spending%20vs%20Age%20Scatter%20Plot.png)**  
+
+---
+
 
 
 
